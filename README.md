@@ -56,7 +56,7 @@ Invalid records are excluded from statistical calculations.
 ## Project Structure
 
 ```text
-OHLC-market-data/
+OHLC-market-data-analyser/
 ├── src/
 │   ├── main.cpp
 │   ├── market_data.cpp
@@ -85,8 +85,8 @@ OHLC-market-data/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd OHLC-market-data
+git clone https://github.com/cheran4899/OHLC-market-data-analyser
+cd OHLC-market-data-analyser
 ```
 
 Create a build directory:

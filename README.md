@@ -185,18 +185,6 @@ This project helped me practise:
 - Project directory structure
 - Command-line applications
 
-## Future Improvements
-
-Planned improvements include:
-
-- Accept CSV path through command-line arguments
-- Add automated unit tests
-- Add performance benchmarking
-- Improve CSV parsing performance
-- Support larger datasets
-- Improve error reporting
-- Add portfolio and P&L functionality
-- Eventually extend the project into a market-data/trading system
 
 ## Author
 
